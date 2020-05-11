@@ -1,6 +1,8 @@
-# website_app
+# Portfolio_app
 
 A new Flutter project.
+
+This App is an mobible version of the website https://onkar-shaligram.github.io
 
 ## Getting Started
 
